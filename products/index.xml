@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>All latest slaps on Nifty Slaps</title><link>https://mchechik.github.io/nifty-slaps/products/</link><description>Recent content in All latest slaps on Nifty Slaps</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://mchechik.github.io/nifty-slaps/products/index.xml" rel="self" type="application/rss+xml"/><item><title>Aftermath</title><link>https://mchechik.github.io/nifty-slaps/products/product-3/</link><pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate><guid>https://mchechik.github.io/nifty-slaps/products/product-3/</guid><description>Aftermath is a bloody palm.</description></item><item><title>Batslap</title><link>https://mchechik.github.io/nifty-slaps/products/product-1/</link><pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate><guid>https://mchechik.github.io/nifty-slaps/products/product-1/</guid><description>Didn&amp;rsquo;t see that one coming.</description></item><item><title>RetroSlap</title><link>https://mchechik.github.io/nifty-slaps/products/product-2/</link><pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate><guid>https://mchechik.github.io/nifty-slaps/products/product-2/</guid><description>A timeless classic.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>All latest slaps on Nifty Slaps</title>
+    <link>https://mchechik.github.io/nifty-slaps/products/</link>
+    <description>Recent content in All latest slaps on Nifty Slaps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate><atom:link href="https://mchechik.github.io/nifty-slaps/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aftermath</title>
+      <link>https://mchechik.github.io/nifty-slaps/products/product-3/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://mchechik.github.io/nifty-slaps/products/product-3/</guid>
+      <description>Aftermath is a bloody palm.</description>
+    </item>
+    
+    <item>
+      <title>Batslap</title>
+      <link>https://mchechik.github.io/nifty-slaps/products/product-1/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://mchechik.github.io/nifty-slaps/products/product-1/</guid>
+      <description>Didn&amp;rsquo;t see that one coming.</description>
+    </item>
+    
+    <item>
+      <title>RetroSlap</title>
+      <link>https://mchechik.github.io/nifty-slaps/products/product-2/</link>
+      <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
+      
+      <guid>https://mchechik.github.io/nifty-slaps/products/product-2/</guid>
+      <description>A timeless classic.</description>
+    </item>
+    
+  </channel>
+</rss>
